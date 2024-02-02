@@ -1,0 +1,79 @@
+body {
+    width: 530px;
+
+}
+
+header {
+    background-color: rgb(63, 157, 63);
+    padding: 20px;
+
+}
+
+header img {
+    width: 80px;
+    height: 60px;
+   
+}
+
+header a {
+    color: black;
+    background-color: rgb(94, 189, 94);
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 20px;
+    padding: 5px;
+    margin: 20px;
+  
+}
+
+nav {
+    text-align: right;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+h2 {
+    text-align: left;
+    font-size: 25px;
+}
+
+.mouse {
+    width: 520px;
+    height: 250px;
+}
+
+.kitty {
+    width: 250px;
+    height: 190px;
+}
+
+.cat {
+    width: 250px;
+    height: 190px; 
+    margin-left: 20px; 
+}
+
+footer {
+    background-color: rgb(63, 157, 63);
+    width: 530px;
+    height: 20px;
+    padding: 40px;
+
+}
+
+footer a {
+    color: black;
+    background-color: rgb(94, 189, 94);
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 20px;
+    padding: 5px;
+    margin: 210px;
+   
+}
+
